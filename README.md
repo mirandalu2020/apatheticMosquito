@@ -6,7 +6,7 @@
 *Key strength*
 - Phil: proper git flow, JS
 - Kirk: okay at JS, NOT a fan of HTML and CSS
-- Nate: not coming up with wireframe, CSS
+- Nate: CSS, not design
 - Miranda: CSS
 
 *Implementation*
@@ -29,7 +29,7 @@
 - if 50/50, keep voting until there is a majority
  
 - if one person takes over, we will remind the person for the responsibilities. And the person have to buy the rest of the group coffee
-- if a person is struggling, we will implement the 15-min rule. If the task is exceptionally challenging, the group will all try to contribute
+- Since we know we all will give our best-effort, if it appears that one is not contributing, the team can tell that the person is struggling. For the struggle, we will implement the 15-min rule. If the task is exceptionally challenging, the group will all try to contribute
 
 - If a person notice there's another member is contributing, the person should talk to group member B see if the person agrees. Also given we are all motivated in the group, we will offer help and have a meeting to ask for the cause of why is not contributing. 
 - The conflict will be escalated we will either vote, or find out the cause. If no progress by end of day, the issue will be brought up to the instructor
@@ -37,7 +37,7 @@
 ### Communication
 
 - 9-7, if post class hours, give till next dayflic
-- on Slack, slack group, discord, main communcation would be in-person, outside of class we will use text. Discord will be used to 
+- on Slack, slack group, discord, main communcation would be in-person, outside of class we will use text. Discord will be used to screenshare
 - If falling behind, ask for help, implement the 15-min rule
 - Every hour
 - Everyone will share in the meeting, we will have daily readout
