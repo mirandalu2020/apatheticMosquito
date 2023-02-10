@@ -2,6 +2,8 @@
 
 ## Meeting Day 0
 
+### Mi Nate, Phil, Kirk, Miranda
+
 ### Group overview
 *Key strength*
 - Phil: proper git flow, JS
